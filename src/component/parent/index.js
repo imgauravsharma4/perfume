@@ -16,9 +16,9 @@ import Pompe from "@/images/cap3.png";
 import AluSpace from "@/images/alluspacex.svg";
 import Pompe31 from "@/images/cap4.svg";
 import Amor from "@/images/amorx.svg";
-import CoffieGroove from "@/images/Coffee.svg";
+import CoffieGroove from "@/images/coffee.svg";
 import CpffoeLisse from "@/images/cpffoe.svg";
-import AluBall from "@/images/alluBallx.svg";
+import AluBall from "@/images/alluballx.svg";
 import FilterComponent from "../filter";
 
 const ParentComponent = () => {
